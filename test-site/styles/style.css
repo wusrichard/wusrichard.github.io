@@ -1,0 +1,38 @@
+h1 {
+    font-size: 60px;
+    text-align: center;
+  }
+
+  p, li {
+    font-size: 24px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+
+  a:hover {
+    color: rgb(187, 21, 46);
+    font-size: 25px;
+  }
+  html {
+    background-color: #a6ab10;
+    font-size: 40px; /* px means 'pixels': the base font size is now 10 pixels high  */
+    font-family: placeholder: this should be the rest of the output you got from Google fonts
+  }
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #c1b9ad;
+    padding: 0s 70px 40px 20px;
+    border: 55px solid rgb(187, 40, 40);
+  }
+  h1 {
+    margin: 0;
+    padding: 200px 20;
+    color: #1fe790;
+    text-shadow: 3px 3px 1px rgb(182, 35, 35);
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+  
